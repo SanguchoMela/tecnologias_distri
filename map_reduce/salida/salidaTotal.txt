@@ -1,0 +1,5 @@
+"tardes"	1
+"adios"	1
+"noches"	1
+"hola"	1
+"buenas"	2

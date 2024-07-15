@@ -1,0 +1,3 @@
+"buenas"	2
+"tardes"	1
+"noches"	1

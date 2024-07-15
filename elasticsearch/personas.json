@@ -1,0 +1,8 @@
+{"index": {"_index": "personas"}}
+{"id": 1, "nombre": "Juan", "apellido": "Perez", "edad": 25}
+{"index": {"_index": "personas"}}
+{"id": 1, "nombre": "Melany", "apellido": "Sangucho", "edad": 23}
+{"index": {"_index": "personas"}}
+{"id": 1, "nombre": "Maria", "apellido": "Aguirre", "edad": 45}
+{"index": {"_index": "personas"}}
+{"id": 1, "nombre": "David", "apellido": "Vallejo", "edad": 21}
